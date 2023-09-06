@@ -1,4 +1,1 @@
-#order-summary-component
-
-[App here.](https://madisonkanna.github.io/tutorial-order-summary-component/)
-
+This is my HTML and CSS project for an order summary code, which displays the music web app premium subscription page like spotify.
